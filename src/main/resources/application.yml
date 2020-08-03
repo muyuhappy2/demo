@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: producer #在注册中心显示的名字
+server:
+    port: 7000
